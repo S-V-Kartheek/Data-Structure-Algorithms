@@ -47,4 +47,16 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
