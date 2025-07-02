@@ -41,8 +41,10 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
