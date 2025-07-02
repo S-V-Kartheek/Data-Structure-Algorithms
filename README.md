@@ -29,3 +29,11 @@ Feel free to connect or suggest improvements!
 
 - 📧 Email: venkatakartheeksanka@gmail.com
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
