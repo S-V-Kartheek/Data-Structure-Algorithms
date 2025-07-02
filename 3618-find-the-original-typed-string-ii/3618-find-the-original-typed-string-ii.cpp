@@ -40,7 +40,7 @@ class Solution {
   vector<int> getConsecutiveLetters(const string& word) {
     vector<int> groups;
     int group = 1;
-    for (int i = 1; i < word.length(); ++i)
+    for (int i = 1; i < word.length(); i++)
       if (word[i] == word[i - 1]) {
         ++group;
       } else {
