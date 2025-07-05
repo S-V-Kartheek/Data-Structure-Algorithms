@@ -42,6 +42,7 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,12 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
