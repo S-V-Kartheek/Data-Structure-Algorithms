@@ -4,7 +4,7 @@ public:
 
        int l=0,n=s.length();
        int count=0;
-       set<int> sett;
+       unordered_set<int> sett;
        for(int r=0;r<n;r++){
         while(sett.count(s[r])){
             sett.erase(s[l]);
