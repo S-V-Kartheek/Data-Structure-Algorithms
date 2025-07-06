@@ -40,6 +40,7 @@ Feel free to connect or suggest improvements!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -63,6 +64,7 @@ Feel free to connect or suggest improvements!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
