@@ -46,6 +46,7 @@ Feel free to connect or suggest improvements!
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Feel free to connect or suggest improvements!
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +93,8 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
