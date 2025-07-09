@@ -1,31 +1,40 @@
 class Solution {
- public:
-  int maxEvents(vector<vector<int>>& events) {
-    int ans = 0;
-    int d = 0;  // the current day
-    int i = 0;  // events' index
-    priority_queue<int, vector<int>, greater<>> minHeap;
-
-    ranges::sort(events);
-
-    while (!minHeap.empty() || i < events.size()) {
-      // If no events are available to attend today, let time flies to the next
-      // available event.
-      if (minHeap.empty())
-        d = events[i][0];
-      // All the events starting from today are newly available.
-      while (i < events.size() && events[i][0] == d)
-        minHeap.push(events[i++][1]);
-      // Greedily attend the event that'll end the earliest since it has higher
-      // chance can't be attended in the future.
-      minHeap.pop();
-      ++ans;
-      ++d;
-      // Pop the events that can't be attended.
-      while (!minHeap.empty() && minHeap.top() < d)
-        minHeap.pop();
+    int findNext(vector<int>& nextDay, int day) {
+        if (nextDay[day] != day) {
+            nextDay[day] = findNext(nextDay, nextDay[day]);
+        }
+        return nextDay[day];
     }
 
-    return ans;
-  }
+public:
+    int maxEvents(vector<vector<int>>& events) {
+        sort(events.begin(), events.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[1] < b[1];
+        });
+
+        int maxDay = 0;
+        for (const auto& evt : events) {
+            if (evt[1] > maxDay) {
+                maxDay = evt[1];
+            }
+        }
+
+        vector<int> nextDay(maxDay + 2);
+        for (int d = 0; d < nextDay.size(); ++d) {
+            nextDay[d] = d;
+        }
+
+        int count = 0;
+        for (const auto& evt : events) {
+            int start = evt[0];
+            int end = evt[1];
+            int day = findNext(nextDay, start);
+            if (day <= end) {
+                ++count;
+                nextDay[day] = findNext(nextDay, day + 1);
+            }
+        }
+
+        return count;
+    }
 };
