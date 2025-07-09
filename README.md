@@ -43,6 +43,7 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -85,6 +87,7 @@ Feel free to connect or suggest improvements!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -99,6 +102,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -118,4 +122,8 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
