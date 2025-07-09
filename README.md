@@ -42,6 +42,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ Feel free to connect or suggest improvements!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 ## String
@@ -96,6 +98,7 @@ Feel free to connect or suggest improvements!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
