@@ -42,6 +42,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ Feel free to connect or suggest improvements!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -125,5 +127,6 @@ Feel free to connect or suggest improvements!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
