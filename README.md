@@ -55,6 +55,7 @@ Feel free to connect or suggest improvements!
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ Feel free to connect or suggest improvements!
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -134,4 +136,8 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
