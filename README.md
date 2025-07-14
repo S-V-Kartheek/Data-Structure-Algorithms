@@ -38,6 +38,7 @@ Feel free to connect or suggest improvements!
 | [0007-reverse-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -150,4 +151,8 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
