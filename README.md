@@ -58,6 +58,7 @@ Feel free to connect or suggest improvements!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ Feel free to connect or suggest improvements!
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Feel free to connect or suggest improvements!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
