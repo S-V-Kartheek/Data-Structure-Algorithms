@@ -72,6 +72,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3396-valid-word](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
