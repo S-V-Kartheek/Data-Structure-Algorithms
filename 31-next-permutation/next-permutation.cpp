@@ -13,7 +13,6 @@ public:
         if(ind==-1){
         reverse(nums.begin(),nums.end());
         }else{
-
         for(int i=n-1;i>ind;i--){
             if(nums[ind]<nums[i]){
                 swap(nums[ind],nums[i]);
