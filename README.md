@@ -77,6 +77,7 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3396-valid-word) |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
@@ -144,6 +145,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
@@ -182,4 +184,8 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
