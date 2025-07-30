@@ -61,6 +61,7 @@ Feel free to connect or suggest improvements!
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -122,6 +123,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
@@ -188,4 +190,8 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
