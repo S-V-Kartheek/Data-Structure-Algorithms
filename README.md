@@ -64,6 +64,7 @@ Feel free to connect or suggest improvements!
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -113,6 +114,7 @@ Feel free to connect or suggest improvements!
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2689-rearranging-fruits) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Feel free to connect or suggest improvements!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2689-rearranging-fruits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Feel free to connect or suggest improvements!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
