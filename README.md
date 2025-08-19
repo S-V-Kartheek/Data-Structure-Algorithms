@@ -43,6 +43,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@ Feel free to connect or suggest improvements!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Bit Manipulation
