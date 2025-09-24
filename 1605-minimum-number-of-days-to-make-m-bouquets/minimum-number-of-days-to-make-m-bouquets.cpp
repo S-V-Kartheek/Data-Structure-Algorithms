@@ -20,12 +20,12 @@ public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
         if(1LL*m*k>n) return -1;
-        int max=*max_element(bloomDay.begin(),bloomDay.end());
-        int l=1,h=max,ans=max;
+        int maxi=*max_element(bloomDay.begin(),bloomDay.end());
+        int l=1,h=maxi,ans=maxi;
         while(l<=h){
             int mid=l+(h-l)/2;
-            int res=calc(bloomDay,mid,k,m);
-            if(res==true){
+            bool res=calc(bloomDay,mid,k,m);
+            if(res){
                 ans=mid;
                 h=mid-1;
             }else{
