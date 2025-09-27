@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int calc(vector<int> weights,int capacity){
+    int calc(const vector<int>& weights,int capacity){
         int days = 1;   
         int currentLoad = 0;
         for (int weight : weights) {
@@ -15,12 +15,9 @@ public:
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
-        int low=INT_MIN,high=0;
-        for(int i=0;i<weights.size();i++){
-            if(low<weights[i]) low=weights[i];
-            high+=weights[i];
-        }
-       
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
+
         while(low<=high){
             int mid=(low+high)/2;
             int daysreq=calc(weights,mid);
