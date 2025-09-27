@@ -60,6 +60,7 @@ Feel free to connect or suggest improvements!
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -135,6 +136,7 @@ Feel free to connect or suggest improvements!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Bit Manipulation
 |  |
