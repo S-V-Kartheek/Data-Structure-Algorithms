@@ -55,6 +55,7 @@ Feel free to connect or suggest improvements!
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
@@ -98,6 +99,7 @@ Feel free to connect or suggest improvements!
 | [0053-maximum-subarray](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -107,6 +109,7 @@ Feel free to connect or suggest improvements!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
@@ -135,6 +138,7 @@ Feel free to connect or suggest improvements!
 | [0035-search-insert-position](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -168,6 +172,7 @@ Feel free to connect or suggest improvements!
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
