@@ -69,6 +69,7 @@ Feel free to connect or suggest improvements!
 | [1510-find-lucky-integer-in-an-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
@@ -146,6 +147,7 @@ Feel free to connect or suggest improvements!
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,4 +234,5 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
