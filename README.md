@@ -83,6 +83,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -91,6 +92,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
