@@ -1,6 +1,5 @@
 class Solution {
     public int maxProfit(int[] arr) {
-        // ArrayList<Integer> arr=new ArrayList<>(price);
         int buy=arr[0];
         int profit=0;
         for(int i=1;i < arr.length;i++){
