@@ -72,6 +72,7 @@ Feel free to connect or suggest improvements!
 | [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2479-meeting-rooms-iii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -117,6 +118,7 @@ Feel free to connect or suggest improvements!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3618-find-the-original-typed-string-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
@@ -240,4 +242,5 @@ Feel free to connect or suggest improvements!
 | [0074-search-a-2d-matrix](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
