@@ -52,6 +52,7 @@ Feel free to connect or suggest improvements!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -158,6 +159,7 @@ Feel free to connect or suggest improvements!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
