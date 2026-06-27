@@ -217,6 +217,7 @@ Feel free to connect or suggest improvements!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
@@ -246,4 +247,8 @@ Feel free to connect or suggest improvements!
 | [0240-search-a-2d-matrix-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
