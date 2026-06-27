@@ -88,6 +88,7 @@ Feel free to connect or suggest improvements!
 | [0075-sort-colors](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -218,6 +219,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
@@ -235,6 +237,7 @@ Feel free to connect or suggest improvements!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
 |  |
@@ -251,4 +254,5 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
