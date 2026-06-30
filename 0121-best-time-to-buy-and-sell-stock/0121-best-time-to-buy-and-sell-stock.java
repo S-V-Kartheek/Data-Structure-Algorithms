@@ -1,11 +1,13 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        // ArrayList<Integer> arr=new ArrayList<>(price);
-        int buy=arr[0];
+    public int maxProfit(int[] prices) {
+        int minprice=Integer.MAX_VALUE;
         int profit=0;
-        for(int i=1;i < arr.length;i++){
-                buy=Math.min(buy,arr[i]);
-                profit=Math.max(profit,arr[i]-buy);
+        for(int price : prices){
+            if(price<minprice){
+                minprice=price;
+            }else{
+                profit=Math.max(profit, price-minprice);
+            }
         }
         return profit;
     }
