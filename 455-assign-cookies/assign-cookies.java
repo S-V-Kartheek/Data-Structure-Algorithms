@@ -5,12 +5,10 @@ class Solution {
         Arrays.sort(s);
         while(x<m && y<n){
             if(g[x]<=s[y]){
-                count++;
-                x++;y++;
-            }else{
-                y++;
+                x++;
             }
+            y++;
         }
-        return count;
+        return x;
     }
 }
