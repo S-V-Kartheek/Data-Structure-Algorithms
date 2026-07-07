@@ -38,6 +38,7 @@ Feel free to connect or suggest improvements!
 | [0007-reverse-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
@@ -163,6 +164,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -258,5 +260,6 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
