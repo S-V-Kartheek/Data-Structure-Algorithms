@@ -63,6 +63,7 @@ Feel free to connect or suggest improvements!
 | [0455-assign-cookies](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0940-fruit-into-baskets) |
@@ -156,6 +157,7 @@ Feel free to connect or suggest improvements!
 | [0240-search-a-2d-matrix-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
