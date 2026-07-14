@@ -100,6 +100,7 @@ Feel free to connect or suggest improvements!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -245,6 +246,7 @@ Feel free to connect or suggest improvements!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/S-V-Kartheek/Data-Structure-Algorithms/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Brainteaser
